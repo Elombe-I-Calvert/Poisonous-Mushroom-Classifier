@@ -6,7 +6,7 @@
 
 **Methodology** 
 <div align="justify">For this machine learning project to classify mushrooms as either edible or poisonous, tree-based machine learning algorithms were utilized. The models used were a Decision Tree, Random Forest, and a Gradient Boosted Tree. The training dataset is multivariate in nature, and consists of 22 categorical attributes, having 6498 instances. The training dataset also consisted of a ground truth category column. The data set was split in the ratio 70% for training and 30% for testing during the training process.</div>
-
+&nbsp;
 
 **Conclusion**
 <div align="justify">Based on the above performance metrics, the best performing machine learning model was the Gradient Boosted Tree, with an accuracy of 0.9994821155, thus it was chosen for the final predictions. Also, the Gradient Boosted Tree performed the best on all the other performance metrics evaluated for such as, AUC, F1 Score, Recall and Precision.</div>
