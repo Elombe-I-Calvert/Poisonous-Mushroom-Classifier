@@ -12,5 +12,4 @@
 
 **Kaggle Competition Winners!!**
 ![Kaggle screenshot](Poisonous-Mushroom-Classifier
-/Kaggle Screen Shot .jpg
-)
+/Kaggle Screen Shot .jpg)
