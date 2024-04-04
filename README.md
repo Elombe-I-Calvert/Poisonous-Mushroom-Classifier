@@ -11,5 +11,4 @@
 <div align="justify">Based on the above performance metrics, the best performing machine learning model was the Gradient Boosted Tree, with an accuracy of 0.9994821155, thus it was chosen for the final predictions. Also, the Gradient Boosted Tree performed the best on all the other performance metrics evaluated for such as, AUC, F1 Score, Recall and Precision.</div>
 
 **Kaggle Competition Winners!!**
-![Kaggle screenshot](Poisonous-Mushroom-Classifier
-/Kaggle Screen Shot .jpg)
+![Kaggle screenshot](https://github.com/Elombe-I-Calvert/Poisonous-Mushroom-Classifier/blob/main/Kaggle%20Screen%20Shot%20.jpg)
